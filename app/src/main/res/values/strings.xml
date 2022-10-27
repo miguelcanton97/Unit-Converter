@@ -1,0 +1,375 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+
+    //MainActivity
+    <string name="cd_search">Search icon</string>
+    <string name="cd_grid">Grid layout icon</string>
+    <string name="cd_unit">Unit icon</string>
+    <string name="cd_clear">Clear button</string>
+    <string name="search">Search</string>
+
+    //FieldActivity
+    <string name="cd_back">Back button</string>
+    <string name="cd_arrows">Arrows button (inverter)</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+
+    //Fields
+    <string name="field_temperature">Temperature</string>
+    <string name="field_time">Time</string>
+    <string name="field_force">Force</string>
+    <string name="field_area">Area</string>
+    <string name="field_volume">Volume</string>
+    <string name="field_mass">Mass</string>
+    <string name="field_pressure">Pressure</string>
+    <string name="field_energy">Energy</string>
+    <string name="field_data">Data storage</string>
+    <string name="field_acceleration">Acceleration</string>
+    <string name="field_density">Density</string>
+    <string name="field_frequency">Frequency</string>
+    <string name="field_resolution">Resolution</string>
+    <string name="field_length">Length</string>
+    <string name="field_angle">Angle</string>
+    <string name="field_velocity">Velocity</string>
+
+    //SingleUnits
+
+    //Length ---------------------------------------------------------------------------------------
+
+    //LengthNames
+    <string name="pm_name">Picometer</string>
+    <string name="a_name">Angstrom</string>
+    <string name="nm_name">Nanometer</string>
+    <string name="μm_name">Micrometer</string>
+    <string name="mm_name">Millimeter</string>
+    <string name="cm_name">Centimeter</string>
+    <string name="dm_name">Decimeter</string>
+    <string name="m_name">Meter</string>
+    <string name="dam_name">Decameter</string>
+    <string name="hm_name">Hectometer</string>
+    <string name="km_name">Kilometer</string>
+    <string name="in_name">Inch</string>
+    <string name="ft_name">Foot</string>
+    <string name="yd_name">Yard</string>
+    <string name="mi_name">Mile</string>
+    <string name="nmi_name">Nautical Mile</string>
+    <string name="ly_name">Light Year</string>
+
+    //LengthUnits
+    <string name="pm_unit">pm</string>
+    <string name="a_unit">Å</string>
+    <string name="nm_unit">nm</string>
+    <string name="μm_unit">μm</string>
+    <string name="mm_unit">mm</string>
+    <string name="cm_unit">cm</string>
+    <string name="dm_unit">dm</string>
+    <string name="m_unit">m</string>
+    <string name="dam_unit">dam</string>
+    <string name="hm_unit">hm</string>
+    <string name="km_unit">km</string>
+    <string name="in_unit">in</string>
+    <string name="ft_unit">ft</string>
+    <string name="yd_unit">yd</string>
+    <string name="mi_unit">mi</string>
+    <string name="nmi_unit">nmi</string>
+    <string name="ly_unit">ly</string>
+
+    //Temperature-----------------------------------------------------------------------------------
+
+    //Temperature Names
+    <string name="c_name">Celsius</string>
+    <string name="k_name">Kelvin</string>
+    <string name="f_name">Fahrenheit</string>
+
+    //Temperature Units
+    <string name="c_unit">°C</string>
+    <string name="k_unit">K</string>
+    <string name="f_unit">°F</string>
+
+    //Time -----------------------------------------------------------------------------------------
+
+    //Time Names
+    <string name="nanosecond_name">Nanosecond</string>
+    <string name="microsecond_name">Microsecond</string>
+    <string name="millisecond_name">Millisecond</string>
+    <string name="second_name">Second</string>
+    <string name="minute_name">Minute</string>
+    <string name="hour_name">Hour</string>
+    <string name="day_name">Day</string>
+    <string name="week_name">Week</string>
+    <string name="month_name">Month</string>
+    <string name="year_name">Year</string>
+    <string name="lustrum_name">Lustrum</string>
+    <string name="decade_name">Decade</string>
+    <string name="century_name">Century</string>
+    <string name="millennium_name">millennium</string>
+
+    //Time Units
+    <string name="nanosecond_unit">ns</string>
+    <string name="microsecond_unit">μs</string>
+    <string name="millisecond_unit">ms</string>
+    <string name="second_unit">s</string>
+    <string name="minute_unit">m</string>
+    <string name="hour_unit">h</string>
+    <string name="day_unit">d</string>
+    <string name="week_unit">w</string>
+    <string name="month_unit">mon</string>
+    <string name="year_unit">y</string>
+    <string name="lustrum_unit">lus</string>
+    <string name="decade_unit">dec</string>
+    <string name="century_unit">cen</string>
+    <string name="millennium_unit">mil</string>
+
+    //Mass -----------------------------------------------------------------------------------------
+
+    //Mass Names
+    <string name="pg_name">Picogram</string>
+    <string name="ng_name">Nanogram</string>
+    <string name="μg_name">Microgram</string>
+    <string name="mg_name">Milligram</string>
+    <string name="cg_name">Centigram</string>
+    <string name="dg_name">Decigram</string>
+    <string name="g_name">Gram</string>
+    <string name="dag_name">Decagram</string>
+    <string name="hg_name">Hectogram</string>
+    <string name="kg_name">Kilogram</string>
+    <string name="t_name">Ton</string>
+    <string name="lbs_name">Pound</string>
+    <string name="oz_name">Ounce</string>
+
+    //Mass Units
+    <string name="pg_unit">pg</string>
+    <string name="ng_unit">ng</string>
+    <string name="μg_unit">μg</string>
+    <string name="mg_unit">mg</string>
+    <string name="cg_unit">cg</string>
+    <string name="dg_unit">dg</string>
+    <string name="g_unit">g</string>
+    <string name="dag_unit">dag</string>
+    <string name="hg_unit">hg</string>
+    <string name="kg_unit">kg</string>
+    <string name="t_unit">t</string>
+    <string name="lbs_unit">lbs</string>
+    <string name="oz_unit">oz</string>
+
+    //Velocity -------------------------------------------------------------------------------------
+
+    //Velocity Names
+    <string name="mets_name">Meter / Second</string>
+    <string name="kilh_name">Kilometer / Hour</string>
+    <string name="milh_name">Mile / Hour</string>
+    <string name="foos_name">Foot / Second</string>
+    <string name="foom_name">Foot / Minute</string>
+    <string name="knot_name">Knot</string>
+
+    //Velocity Units
+    <string name="mets_unit">m/s</string>
+    <string name="kilh_unit">km/h</string>
+    <string name="milh_unit">mi/h</string>
+    <string name="foos_unit">ft/s</string>
+    <string name="foom_unit">ft/min</string>
+    <string name="knot_unit">kt</string>
+
+    //Acceleration ---------------------------------------------------------------------------------
+
+    //Acceleration Names
+    <string name="mets2_name">Meter / Second Squared</string>
+    <string name="kils2_name">Kilometer / Second Squared</string>
+    <string name="mils2_name">Mile / Second Squared</string>
+    <string name="foos2_name">Foot / Second Squared</string>
+
+    //Acceleration Units
+    <string name="mets2_unit">m/s\u00B2</string>
+    <string name="kils2_unit">km/s\u00B2</string>
+    <string name="mils2_unit">mi/s\u00B2</string>
+    <string name="foos2_unit">ft/s\u00B2</string>
+
+    //Energy ---------------------------------------------------------------------------------
+
+    //Energy Names
+    <string name="j_name">Joule</string>
+    <string name="kj_name">Kilojoule</string>
+    <string name="wh_name">Watt-Hour</string>
+    <string name="kwh_name">Kilowatt / Hour</string>
+    <string name="ev_name">Electron-Volt</string>
+    <string name="cal_name">Calorie</string>
+    <string name="er_name">Erg</string>
+
+    //Energy Names
+    <string name="j_unit">J</string>
+    <string name="kj_unit">kJ</string>
+    <string name="wh_unit">W*h</string>
+    <string name="kwh_unit">kW*h</string>
+    <string name="ev_unit">eV</string>
+    <string name="cal_unit">cal</string>
+    <string name="er_unit">erg</string>
+
+    //Data Storage ---------------------------------------------------------------------------------
+
+    //Data Storage Names
+    <string name="b_name">Bit</string>
+    <string name="by_name">Byte</string>
+    <string name="kb_name">Kilobyte</string>
+    <string name="mb_name">Megabyte</string>
+    <string name="gb_name">Gigabyte</string>
+    <string name="tb_name">Terabyte</string>
+    <string name="pb_name">Petabyte</string>
+    <string name="eb_name">Exabyte</string>
+
+    //Data Storage Units
+    <string name="b_unit">b</string>
+    <string name="by_unit">B</string>
+    <string name="kb_unit">kB</string>
+    <string name="mb_unit">MB</string>
+    <string name="gb_unit">GB</string>
+    <string name="tb_unit">TB</string>
+    <string name="pb_unit">PB</string>
+    <string name="eb_unit">EB</string>
+
+    //Area -----------------------------------------------------------------------------------------
+
+    //Area Names
+    <string name="cm2_name">Square Centimeter</string>
+    <string name="m2_name">Square Meter</string>
+    <string name="ha_name">Hectare</string>
+    <string name="km2_name">Square Kilometer</string>
+    <string name="mi2_name">Square Mile</string>
+    <string name="yd2_name">Square Yard</string>
+    <string name="ft2_name">Square Foot</string>
+    <string name="in2_name">Square Inch</string>
+
+    //Area Units
+    <string name="cm2_unit">cm\u00B2</string>
+    <string name="m2_unit">m\u00B2</string>
+    <string name="ha_unit">ha</string>
+    <string name="km2_unit">km\u00B2</string>
+    <string name="mi2_unit">mi\u00B2</string>
+    <string name="yd2_unit">yd\u00B2</string>
+    <string name="ft2_unit">ft\u00B2</string>
+    <string name="in2_unit">in\u00B2</string>
+
+    //Volume ---------------------------------------------------------------------------------------
+
+    //Volume Names
+    <string name="cm3_name">Cubic Centimeter</string>
+    <string name="dm3_name">Cubic Decimeter</string>
+    <string name="l_name">Liter</string>
+    <string name="m3_name">Cubic Meter</string>
+    <string name="gal_name">Gallon</string>
+    <string name="yd3_name">Cubic Yard</string>
+    <string name="ft3_name">Cubic Foot</string>
+    <string name="in3_name">Cubic Inch</string>
+
+    //Volume Units
+    <string name="cm3_unit">cm\u00B3</string>
+    <string name="dm3_unit">dm\u00B3</string>
+    <string name="l_unit">l</string>
+    <string name="m3_unit">m\u00B3</string>
+    <string name="gal_unit">gal</string>
+    <string name="yd3_unit">yd\u00B3</string>
+    <string name="ft3_unit">ft\u00B3</string>
+    <string name="in3_unit">in\u00B3</string>
+
+    //Pressure -------------------------------------------------------------------------------------
+
+    //Pressure Names
+    <string name="pa_name">Pascal</string>
+    <string name="kpa_name">Kilopascal</string>
+    <string name="bar_name">Bar</string>
+    <string name="nm2_name">Newton / Meter\u00B2</string>
+    <string name="atm_name">Atmosphere</string>
+
+    //Pressure Units
+    <string name="pa_unit">Pa</string>
+    <string name="kpa_unit">kPa</string>
+    <string name="bar_unit">bar</string>
+    <string name="nm2_unit">N/m\u00B2</string>
+    <string name="atm_unit">atm</string>
+
+    //Density --------------------------------------------------------------------------------------
+
+    //Density Names
+    <string name="kgl_name">Kilogram / Liter</string>
+    <string name="kgm3_name">Kilogram / Cubic Meter</string>
+    <string name="gcm3_name">Gram / Cubic Centimeter</string>
+    <string name="gl_name">Gram / Liter</string>
+    <string name="gm3_name">Gram / Cubic Meter</string>
+
+    //Density Units
+    <string name="kgl_unit">kg/l</string>
+    <string name="kgm3_unit">kg/m\u00B3</string>
+    <string name="gcm3_unit">g/cm\u00B3</string>
+    <string name="gl_unit">g/l</string>
+    <string name="gm3_unit">g/m\u00B3</string>
+
+    //Frequency ------------------------------------------------------------------------------------
+
+    //Frequency Names
+    <string name="h_name">Hertz</string>
+    <string name="kh_name">Kilohertz</string>
+    <string name="mh_name">Megahertz</string>
+    <string name="gh_name">Gigahertz</string>
+    <string name="rps_name">Rev. / Second</string>
+    <string name="rpm_name">RPM</string>
+
+    //Frequency Units
+    <string name="h_unit">Hz</string>
+    <string name="kh_unit">kHz</string>
+    <string name="mh_unit">MHz</string>
+    <string name="gh_unit">GHz</string>
+    <string name="rps_unit">rev/s</string>
+    <string name="rpm_unit">rpm</string>
+
+    //Resolution -----------------------------------------------------------------------------------
+
+    //Resolution Names
+    <string name="dpm_name">Dot / Meter</string>
+    <string name="dpmm_name">Dot / Millimeter</string>
+    <string name="dpi_name">Dot / Inch</string>
+    <string name="ppi_name">Pixel / Inch</string>
+
+    //Resolution Units
+    <string name="dpm_unit">dpm</string>
+    <string name="dpmm_unit">dpmm</string>
+    <string name="dpi_unit">dpi</string>
+    <string name="ppi_unit">ppi</string>
+
+    //Force ----------------------------------------------------------------------------------------
+
+    //Force Names
+    <string name="n_name">Newton</string>
+    <string name="kn_name">Kilonewton</string>
+    <string name="p_name">Pond</string>
+    <string name="kp_name">Kilopond</string>
+    <string name="jm_name">Joule / Meter</string>
+    <string name="d_name">Dyne</string>
+    <string name="gf_name">Gram - Force</string>
+    <string name="kgf_name">Kilogram - Force</string>
+    <string name="tf_name">Ton - Force</string>
+
+    //Force Units
+    <string name="n_unit">N</string>
+    <string name="kn_unit">kN</string>
+    <string name="p_unit">p</string>
+    <string name="kp_unit">kp</string>
+    <string name="jm_unit">J/m</string>
+    <string name="d_unit">dyn</string>
+    <string name="gf_unit">gf</string>
+    <string name="kgf_unit">kgf</string>
+    <string name="tf_unit">tf</string>
+
+    //Angle ----------------------------------------------------------------------------------------
+
+    //Angle Names
+    <string name="deg_name">Degree</string>
+    <string name="rad_name">Radian</string>
+    <string name="min_name">Minute</string>
+    <string name="sec_name">Second</string>
+
+    //Angle Units
+    <string name="deg_unit">º</string>
+    <string name="rad_unit">rad</string>
+    <string name="min_unit">\'</string>
+    <string name="sec_unit">\"</string>
+
+</resources>
